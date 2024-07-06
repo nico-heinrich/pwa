@@ -2,7 +2,7 @@
   "name": "Progressive Web App",
   "short_name": "PWA",
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#fff",
   "theme_color": "#000",
   "orientation": "portrait",
