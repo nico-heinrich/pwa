@@ -1,10 +1,9 @@
-<div class="h-[100svh] flex flex-col bg-red-500">
-  <h1>Welcome to SvelteKit</h1>
-  <p class="mt-auto mb-save-area">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="p-4 space-y-4">
+  <h1 class="text-2xl font-semibold">Included Features</h1>
+  <ul>
+    <li>🚀 Svelte</li>
+    <li>🎨 Tailwind CSS</li>
+    <li>📦 Dexie.js</li>
+    <li>📱 PWA Ready</li>
+  </ul>
 </div>
-
-<style>
-  .mb-save-area {
-    margin-bottom: env(safe-area-inset-bottom);
-  }
-</style>
